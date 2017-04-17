@@ -1,0 +1,21 @@
+runtime: php55
+api_version: 1
+
+service: kb-wp-reverse-proxy
+
+threadsafe: true
+
+handlers:
+- url: /assets
+  static_dir: public/assets
+
+- url: /*
+  script: public/index.php
+  secure: always
+
+- url: /.*
+  script: public/index.php
+  secure: always
+
+skip_files:
+- ^.git$
