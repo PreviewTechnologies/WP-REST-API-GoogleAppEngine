@@ -1,5 +1,5 @@
 ####WP REST API via Google App Engine
-Serve your wordpress site's POST with WP REST API + Google App Engine (as reverse proxy theoritically) to your visitors.
+Serve your wordpress site's POST with []WP REST API](https://developer.wordpress.org/rest-api) + []Google App Engine](https://cloud.google.com/appengine/) (as reverse proxy theoritically) to your visitors.
 
 Super-fast, static-like webpage with your backend WP data.
 
@@ -20,6 +20,6 @@ Now it's done! you can now browse your Google APP Engine app url something like 
 Use this as your WP REST API endpoint and start using. Enjoy serving static pages
 with this REST API JSON data.
 
-Facing any trouble, contact me anytime at `shaharia@previewtechs.com`
+Facing any trouble, contact me anytime at `shaharia@previewtechs.com` or at twitter [@shaharia](https://twitter.com/shaharia)
 
 My article about this implementation are available on [https://blog.shaharia.com/supercharge-wp-rest-api-with-google-app-engine](https://blog.shaharia.com/supercharge-wp-rest-api-with-google-app-engine) 
