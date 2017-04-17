@@ -21,3 +21,5 @@ Use this as your WP REST API endpoint and start using. Enjoy serving static page
 with this REST API JSON data.
 
 Facing any trouble, contact me anytime at `shaharia@previewtechs.com`
+
+My article about this implementation are available on [https://blog.shaharia.com/supercharge-wp-rest-api-with-google-app-engine](https://blog.shaharia.com/supercharge-wp-rest-api-with-google-app-engine) 
